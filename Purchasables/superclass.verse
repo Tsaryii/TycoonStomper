@@ -56,8 +56,6 @@ purchaseable<public>:=class<abstract>(Detailable, Hostable, SuperInaugurable, Re
     @editable var  PropsToHide : []creative_prop = array{}
     
 
-    #DO VFX NEXT AND LINK THIS TRANSMIT ON PURCHASE TO YOUR PURCHASE ZONES
-
     #*********************#
     #  Interface methods  #
     #*********************#    
